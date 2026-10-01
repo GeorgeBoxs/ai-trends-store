@@ -16,3 +16,11 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-01 | CodeGraph | https://github.com/colbymchenry/codegraph
+2026-10-01 | Claude Code v2.1.286 | https://github.com/anthropics/claude-code/releases
+2026-10-01 | Hamel review: Claude auto-evals | https://hamel.dev/blog/posts/claude-auto-evals
+2026-10-01 | Codex 0.159.3 | https://github.com/openai/codex/releases
+2026-10-01 | Weave Router 2.0 | https://github.com/weave-os/router
+2026-10-01 | context-mode | https://github.com/mksglu/context-mode
+2026-10-01 | Perspica | https://github.com/sshah03/perspica
+2026-10-01 | VoiceStudio | https://github.com/debpalash/VoiceStudio
