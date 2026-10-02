@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-02 | Claude Code v2.1.285-287 Claude Mods | https://github.com/anthropics/claude-code/releases
+2026-10-02 | Pi 1.0 | https://earendil.com/posts/pi-1-0/
+2026-10-02 | Ponytail | https://github.com/DietrichGebert/ponytail
+2026-10-02 | Codex 0.160.0 | https://github.com/openai/codex/releases
+2026-10-02 | DeepSeek Harness | https://github.com/deepseek-ai/deepseek-harness
+2026-10-02 | Cloudflare Clef | https://blog.cloudflare.com/clef-decision-models/
+2026-10-02 | turbopuffer v3 | https://turbopuffer.com/blog/rip-vector-database
+2026-10-02 | context-mode | https://github.com/mksglu/context-mode
+2026-10-02 | impeccable | https://github.com/pbakaus/impeccable
+2026-10-02 | cursor/plugins | https://github.com/cursor/plugins
