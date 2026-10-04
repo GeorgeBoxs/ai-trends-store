@@ -16,3 +16,9 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-04 | Claude Code v2.1.289 | https://github.com/anthropics/claude-code/releases
+2026-10-04 | Claude Mods v2.1.287 / v2.1.288 | https://github.com/anthropics/claude-code/releases
+2026-10-04 | ponytail | https://github.com/DietrichGebert/ponytail
+2026-10-04 | Offrun | https://offrun.dev/
+2026-10-04 | Agent-Reach | https://github.com/Panniantong/Agent-Reach
+2026-10-04 | weave-os/router | https://github.com/weave-os/router
