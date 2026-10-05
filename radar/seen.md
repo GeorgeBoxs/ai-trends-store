@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-05 | Claude Mods (Claude Code v2.1.287) | https://github.com/anthropics/claude-code/releases/tag/v2.1.287
+2026-10-05 | Claude Code v2.1.288 / v2.1.289 | https://github.com/anthropics/claude-code/releases/tag/v2.1.289
+2026-10-05 | Ponytail | https://github.com/DietrichGebert/ponytail
+2026-10-05 | tester-army/e2e | https://github.com/tester-army/e2e
+2026-10-05 | Agents don't need memory | https://liao.gg/blog/agents-dont-need-memory
+2026-10-05 | Willison hard budget caps | https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+2026-10-05 | impeccable | https://github.com/pbakaus/impeccable
+2026-10-05 | Strata | https://github.com/Niko1221/Strata
+2026-10-05 | pstack-claude | https://github.com/michael-denyer/pstack-claude
+2026-10-05 | t3code | https://github.com/pingdotgg/t3code
