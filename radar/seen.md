@@ -16,3 +16,15 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-07 | Claude Code v2.1.292 (plugin --marketplace, Agent effort) | https://github.com/anthropics/claude-code/releases
+2026-10-07 | tester-army/e2e | https://github.com/tester-army/e2e
+2026-10-07 | morluto/rea | https://github.com/morluto/rea
+2026-10-07 | Cursor remote control for local agents | https://cursor.com/changelog
+2026-10-07 | Codex CLI 0.160.1 / 0.162 alphas | https://github.com/openai/codex/releases
+2026-10-07 | Amazon Strands Decider 2B | https://aiweekly.co/alerts/amazon-ships-strands-decider-2b-an-open-source-jev-rival
+2026-10-07 | Mistral Large 4 | https://mistral.ai/news
+2026-10-07 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-10-07 | earthtojake/text-to-cad | https://github.com/earthtojake/text-to-cad
+2026-10-07 | pbakaus/impeccable | https://github.com/pbakaus/impeccable
+2026-10-07 | cathrynlavery/diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-07 | Anthropic Claude Frontier Academy $100M | https://www.anthropic.com/news
