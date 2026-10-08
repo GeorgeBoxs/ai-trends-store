@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-08 | Claude Haiku 5.5 | https://www.anthropic.com/news
+2026-10-08 | Codemode (Armin Ronacher) | https://lucumr.pocoo.org/2026/10/6/codemode/
+2026-10-08 | Strands Decider 2B | https://strandsagents.com/blog/introducing-strands-decider/
+2026-10-08 | Claude Code 2.1.292-2.1.294 | https://github.com/anthropics/claude-code/releases
+2026-10-08 | Codex CLI 0.161.0 | https://github.com/openai/codex/releases
+2026-10-08 | docker/docker-agent | https://github.com/docker/docker-agent
+2026-10-08 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-10-08 | thedotmack/claude-mem | https://github.com/thedotmack/claude-mem
+2026-10-08 | cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill
+2026-10-08 | cathrynlavery/diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-08 | tester-army/e2e | https://github.com/tester-army/e2e
