@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-09 | Claude Code 2.1.295 onFailure block hooks | https://github.com/anthropics/claude-code/releases
+2026-10-09 | OSC 7501 Program Status Protocol | https://mitchellh.com/writing/program-status-osc7501
+2026-10-09 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-10-09 | Codex 0.162.0 | https://github.com/openai/codex/releases
+2026-10-09 | Claude Haiku 5.5 (announcement) | https://www.anthropic.com/news
+2026-10-09 | Quesma Opus 5.5 vs GPT-6 Astra one-shot | https://quesma.com/blog/invisible-cities-one-shot/
+2026-10-09 | morluto/rea | https://github.com/morluto/rea
+2026-10-09 | cathrynlavery/diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-09 | thedotmack/claude-mem | https://github.com/thedotmack/claude-mem
+2026-10-09 | anthropics/knowledge-work-plugins | https://github.com/anthropics/knowledge-work-plugins
