@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-11 | Claude Haiku 5.5 (v2.1.293) | https://www.anthropic.com/news
+2026-10-11 | Claude Code hooks onFailure block v2.1.295/294 | https://github.com/anthropics/claude-code/releases
+2026-10-11 | Claude Code v2.1.296 / v2.1.292 | https://github.com/anthropics/claude-code/releases
+2026-10-11 | mksglu/context-mode | https://github.com/mksglu/context-mode
+2026-10-11 | Codex 0.162.0/0.162.1 | https://github.com/openai/codex/releases
+2026-10-11 | Cursor remote control for local agents | https://cursor.com/changelog
+2026-10-11 | Microsoft Execution Containers (Mxc) | https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
+2026-10-11 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-10-11 | cathrynlavery/diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-11 | rociiu/talorys | https://github.com/rociiu/talorys
+2026-10-11 | Cockroach Labs agents-as-medical-team | https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
