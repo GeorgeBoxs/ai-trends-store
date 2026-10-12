@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-12 | Claude Code 2.1.292-296 | https://github.com/anthropics/claude-code/releases
+2026-10-12 | REA morluto/rea | https://github.com/morluto/rea
+2026-10-12 | diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-12 | Claude Haiku 5.5 | https://github.com/anthropics/claude-code/releases
+2026-10-12 | Cursor remote control for local agents | https://cursor.com/changelog
+2026-10-12 | claude-pod | https://github.com/trekhleb/claude-pod
+2026-10-12 | Plimsoll sandbox | https://github.com/plimsollmark/plimsoll
