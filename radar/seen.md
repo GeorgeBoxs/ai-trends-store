@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-13 | Codex daemon_auto_start issue | https://github.com/openai/codex/issues/48195
+2026-10-13 | Claude Code 2.1.294-296 | https://github.com/anthropics/claude-code/releases
+2026-10-13 | mksglu/context-mode | https://github.com/mksglu/context-mode
+2026-10-13 | cathrynlavery/diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-13 | morluto/rea | https://github.com/morluto/rea
+2026-10-13 | Agent37 Launch HN | https://agent37.com
+2026-10-13 | Ars: AI coding agents more code not more software | https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
