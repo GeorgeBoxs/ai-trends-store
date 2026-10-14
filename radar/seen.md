@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-14 | Claude Code v2.1.299 idle compaction | https://github.com/anthropics/claude-code/releases
+2026-10-14 | Anthropic Scion source control | https://www.anthropic.com/engineering/redesigning-source-control
+2026-10-14 | Huntley pre-commit hook for agents | https://simonwillison.net/2026/Oct/13/geoffrey-huntley/
+2026-10-14 | Gemini 4 Argon | https://deepmind.google/models/gemini/
+2026-10-14 | Claude Code v2.1.296 | https://github.com/anthropics/claude-code/releases
+2026-10-14 | Cursor Remote Control / Origin marketplace | https://cursor.com/changelog
+2026-10-14 | context-mode | https://github.com/mksglu/context-mode
+2026-10-14 | diagram-design | https://github.com/cathrynlavery/diagram-design
+2026-10-14 | vercel-labs/skills | https://github.com/vercel-labs/skills
+2026-10-14 | morluto/rea (flagged) | https://github.com/morluto/rea
