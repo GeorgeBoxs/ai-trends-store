@@ -16,3 +16,11 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-15 | Claude Code v2.1.299/v2.1.300 idle compaction | https://github.com/anthropics/claude-code/releases
+2026-10-15 | context-mode | https://github.com/mksglu/context-mode
+2026-10-15 | OpenCode 2.0 Code Mode | https://anoma.ly/notes/opencode-2-0/
+2026-10-15 | Anthropic Redesigning source control | https://www.anthropic.com/engineering/redesigning-source-control
+2026-10-15 | Cursor app marketplace / Remote Control | https://cursor.com/changelog
+2026-10-15 | CLI-Anything | https://github.com/HKUDS/CLI-Anything
+2026-10-15 | scientific-agent-skills | https://github.com/K-Dense-AI/scientific-agent-skills
+2026-10-15 | morluto/rea (flagged suspicious) | https://github.com/morluto/rea
