@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-16 | Claude Code 2.1.299 idle compaction | https://github.com/anthropics/claude-code/releases
+2026-10-16 | context-mode | https://github.com/mksglu/context-mode
+2026-10-16 | Huntley pre-commit guardrail | https://simonwillison.net/2026/Oct/13/geoffrey-huntley/
+2026-10-16 | Claude Code 2.1.300/2.1.301 | https://github.com/anthropics/claude-code/releases
+2026-10-16 | Codex 0.163.0 | https://github.com/openai/codex/releases
+2026-10-16 | Cursor Remote Control / Origin marketplace | https://cursor.com/changelog
+2026-10-16 | Redesigning source control at Anthropic | https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/
+2026-10-16 | caveman | https://github.com/JuliusBrussee/caveman
+2026-10-16 | claude-plugins-official | https://github.com/anthropics/claude-plugins-official
+2026-10-16 | scientific-agent-skills | https://github.com/K-Dense-AI/scientific-agent-skills
+2026-10-16 | Anthropic Q revenue $16.8bn (FT via Willison) | https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/
