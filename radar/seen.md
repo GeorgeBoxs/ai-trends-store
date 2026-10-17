@@ -16,3 +16,11 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-17 | How the Claude Code team does code review | https://claude.dev/blog/solving-code-review-at-anthropic/
+2026-10-17 | Claude Code v2.1.299-2.1.302 (idle compaction, auto-mode model) | https://github.com/anthropics/claude-code/releases
+2026-10-17 | Claude Code v2.1.295/296 (hook onFailure block, workflow subagent model) | https://github.com/anthropics/claude-code/releases
+2026-10-17 | context-mode | https://github.com/mksglu/context-mode
+2026-10-17 | Codex 0.163.0 | https://github.com/openai/codex/releases
+2026-10-17 | Cursor cloud agent canvases / Environments API | https://cursor.com/changelog
+2026-10-17 | anthropics/claude-plugins-official | https://github.com/anthropics/claude-plugins-official
+2026-10-17 | ruvnet/ruflo | https://github.com/ruvnet/ruflo
