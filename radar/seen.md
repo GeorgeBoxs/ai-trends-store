@@ -16,3 +16,11 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-18 | Claude Code v2.1.302 | https://github.com/anthropics/claude-code/releases
+2026-10-18 | Sphinx | https://sphinx-six-theta.vercel.app/
+2026-10-18 | akitaonrails/ai-memory | https://github.com/akitaonrails/ai-memory
+2026-10-18 | Codex 0.163.0 | https://github.com/openai/codex/releases
+2026-10-18 | stablyai/orca | https://github.com/stablyai/orca
+2026-10-18 | xerj-org/xerj | https://github.com/xerj-org/xerj
+2026-10-18 | claude-plugins-official | https://github.com/anthropics/claude-plugins-official
+2026-10-18 | MadsLorentzen/ai-job-search | https://github.com/MadsLorentzen/ai-job-search
