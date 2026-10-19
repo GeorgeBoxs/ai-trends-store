@@ -16,3 +16,15 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-19 | Claude Code fork subagents default-on v2.1.302 | https://github.com/anthropics/claude-code/releases/tag/v2.1.302
+2026-10-19 | Idle compaction v2.1.299 | https://github.com/anthropics/claude-code/releases
+2026-10-19 | whatsapp-mcp on Cloudflare | https://github.com/finereli/whatsapp-mcp
+2026-10-19 | Codex 0.163.0 | https://github.com/openai/codex/releases
+2026-10-19 | Cursor cloud agent Canvases / Environments API | https://cursor.com/changelog
+2026-10-19 | Torvalds + Claude Code page cache race | https://thenewstack.io/torvalds-claude-code-kernel/
+2026-10-19 | ai-memory | https://github.com/akitaonrails/ai-memory
+2026-10-19 | stablyai/orca | https://github.com/stablyai/orca
+2026-10-19 | claude-plugins-official | https://github.com/anthropics/claude-plugins-official
+2026-10-19 | ai-job-search | https://github.com/MadsLorentzen/ai-job-search
+2026-10-19 | epoptes | https://github.com/ramigb/epoptes
+2026-10-19 | milo.baby | https://milo.baby
