@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-22 | LiteLLM 1.107.0 PyPI compromise | https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+2026-10-22 | Claude Code v2.1.307/308 | https://github.com/anthropics/claude-code/releases
+2026-10-22 | Headroom | https://github.com/headroomlabs-ai/headroom
+2026-10-22 | Cursor cloud agent canvases / Environments API | https://cursor.com/changelog
+2026-10-22 | openai-cli | https://github.com/openai/openai-cli
+2026-10-22 | Omnara | https://github.com/omnara-ai/omnara
+2026-10-22 | cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill
+2026-10-22 | ai-memory | https://github.com/akitaonrails/ai-memory
+2026-10-22 | graphify | https://github.com/Graphify-Labs/graphify
+2026-10-22 | orca | https://github.com/stablyai/orca
+2026-10-22 | Alter (YC S25) | https://alterauth.com/
