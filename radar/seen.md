@@ -16,3 +16,8 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-24 | Codex CLI 0.164.0 | https://learn.chatgpt.com/docs/changelog
+2026-10-24 | Claude Code 2.1.307 / 2.1.304-305 | https://github.com/anthropics/claude-code/releases
+2026-10-24 | Ruflo (ex Claude Flow) | https://github.com/ruvnet/ruflo
+2026-10-24 | Concat MCP video editor | unverified
+2026-10-24 | freehire MCP job search | unverified
