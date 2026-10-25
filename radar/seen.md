@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-25 | cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill
+2026-10-25 | Claude Code v2.1.307-2.1.310 | https://github.com/anthropics/claude-code/releases
+2026-10-25 | Codex CLI 0.164.0 | https://github.com/openai/codex/releases
+2026-10-25 | Nutlope/hallmark | https://github.com/Nutlope/hallmark
+2026-10-25 | luongnv89/claude-howto | https://github.com/luongnv89/claude-howto
+2026-10-25 | pbakaus/impeccable | https://github.com/pbakaus/impeccable
+2026-10-25 | Anthropic: Donating Agent Skills to AAIF | https://www.anthropic.com/news
