@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-26 | cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill
+2026-10-26 | Claude Code 2.1.305-2.1.310 | https://code.claude.com/docs/en/changelog
+2026-10-26 | Nutlope/hallmark | https://github.com/Nutlope/hallmark
+2026-10-26 | Codex CLI 0.164.0 | https://github.com/openai/codex/releases
+2026-10-26 | The State of Context Engineering | https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
+2026-10-26 | Anthropic: Donating Agent Skills to AAIF (headline only) | https://www.anthropic.com/news
+2026-10-26 | makecindy/cindy | https://github.com/makecindy/cindy
+2026-10-26 | JetBrains/thinkrail | https://github.com/JetBrains/thinkrail
+2026-10-26 | AgriciDaniel/claude-seo | https://github.com/AgriciDaniel/claude-seo
+2026-10-26 | pbakaus/impeccable | https://github.com/pbakaus/impeccable
