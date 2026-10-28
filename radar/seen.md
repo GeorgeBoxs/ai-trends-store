@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-28 | Agent Skills donated to Agentic AI Foundation | https://www.anthropic.com/news
+2026-10-28 | Cursor Agent SDK | https://cursor.com/changelog
+2026-10-28 | Hallmark design skill | https://github.com/Nutlope/hallmark
+2026-10-28 | Claude Code v2.1.309-312 | https://github.com/anthropics/claude-code/releases
+2026-10-28 | Codex CLI 0.165.0 / GPT-6.1 Terra | https://github.com/openai/codex/releases
+2026-10-28 | pbakaus/impeccable | https://github.com/pbakaus/impeccable
+2026-10-28 | nightly-labs/openbot | https://github.com/nightly-labs/openbot
