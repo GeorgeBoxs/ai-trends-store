@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-29 | Cursor Agent SDK GA | https://cursor.com/blog/agent-sdk
+2026-10-29 | Claude Code agent_summary token drain (gist) | https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+2026-10-29 | Nutlope/hallmark | https://github.com/Nutlope/hallmark
+2026-10-29 | Claude Code v2.1.312 / v2.1.311 | https://github.com/anthropics/claude-code/releases
+2026-10-29 | Codex 0.165.0 | https://github.com/openai/codex/releases
+2026-10-29 | Gemini 4 Carbon | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+2026-10-29 | pbakaus/impeccable | https://github.com/pbakaus/impeccable
+2026-10-29 | JetBrains/thinkrail | https://github.com/JetBrains/thinkrail
+2026-10-29 | nightly-labs/openbot | https://github.com/nightly-labs/openbot
+2026-10-29 | obra/superpowers | https://github.com/obra/superpowers
