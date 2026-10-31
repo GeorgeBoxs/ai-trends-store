@@ -16,3 +16,12 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-10-31 | Trojanized Claude Code ext 2.1.312/313 (Cursor notice) | https://cursor.com/blog/claude-code-extension-security-notice
+2026-10-31 | Claude Code v2.1.316 / 2.1.314 | https://github.com/anthropics/claude-code/releases
+2026-10-31 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-10-31 | Codex 0.166.0 | https://github.com/openai/codex/releases
+2026-10-31 | Claude Ultra plan | https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan
+2026-10-31 | claude-mem | https://github.com/thedotmack/claude-mem
+2026-10-31 | cc-pair | https://github.com/leonlee/cc-pair
+2026-10-31 | impeccable | https://github.com/pbakaus/impeccable
+2026-10-31 | lightpanda browser | https://github.com/lightpanda-io/browser
