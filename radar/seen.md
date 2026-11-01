@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-01 | Claude Code v2.1.312-2.1.316 | https://github.com/anthropics/claude-code/releases
+2026-11-01 | Cursor Agent SDK GA | https://cursor.com/changelog
+2026-11-01 | Spawn ship-hourly agents | https://twitter.com/jsnnsa/status/2115623382721126826
+2026-11-01 | Codex 0.166.0 | https://github.com/openai/codex/releases
+2026-11-01 | Agent Skills donated to AAIF | https://www.anthropic.com/news
+2026-11-01 | Memdoor | https://github.com/guregodevo/memdoor
+2026-11-01 | claude-mem | https://github.com/thedotmack/claude-mem
+2026-11-01 | impeccable | https://github.com/pbakaus/impeccable
+2026-11-01 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-11-01 | lightpanda browser | https://github.com/lightpanda-io/browser
