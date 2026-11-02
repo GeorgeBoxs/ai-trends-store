@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-02 | SECURITY: backdoored Claude Code extension on Cursor marketplace | https://phorion.io/blog/offical-claude-code-vsx-compromise/
+2026-11-02 | Claude Code v2.1.314-2.1.316 | https://github.com/anthropics/claude-code/releases
+2026-11-02 | Opus 4.8 fast mode removal Nov 30 | https://github.com/anthropics/claude-code/releases
+2026-11-02 | Agent Skills donated to AAIF | https://simonwillison.net/2026/Oct/22/donating-agent-skills/
+2026-11-02 | Codex 0.166.0 | https://github.com/openai/codex/releases
+2026-11-02 | Cursor Agent SDK GA | https://cursor.com/changelog
+2026-11-02 | CC background agent transcript gist | https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+2026-11-02 | claude-mem | https://github.com/thedotmack/claude-mem
+2026-11-02 | t3code | https://github.com/pingdotgg/t3code
+2026-11-02 | Claude-Code-Game-Studios | https://github.com/Donchitos/Claude-Code-Game-Studios
+2026-11-02 | lightpanda browser | https://github.com/lightpanda-io/browser
