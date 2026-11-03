@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-03 | Claude Code v2.1.317 | https://github.com/anthropics/claude-code/releases
+2026-11-03 | vercel-labs/agent-desktop | https://github.com/vercel-labs/agent-desktop
+2026-11-03 | worktrunk | https://github.com/max-sixty/worktrunk
+2026-11-03 | claude-mem | https://github.com/thedotmack/claude-mem
+2026-11-03 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-11-03 | skill-video-studio | https://github.com/aaitor/skill-video-studio
+2026-11-03 | Momentic (Launch HN) | https://momentic.ai/
