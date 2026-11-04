@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-04 | Claude Code v2.1.317/318 | https://github.com/anthropics/claude-code/releases/tag/v2.1.317
+2026-11-04 | Postman auto-installs agent plugins/hooks | https://github.com/postmanlabs/postman-app-support/issues/14370
+2026-11-04 | worktrunk | https://github.com/max-sixty/worktrunk
+2026-11-04 | vercel-labs/agent-desktop | https://github.com/vercel-labs/agent-desktop
+2026-11-04 | claude-mem | https://github.com/thedotmack/claude-mem
+2026-11-04 | Scrapling | https://github.com/D4Vinci/Scrapling
+2026-11-04 | Cursor Agent SDK GA | https://cursor.com/changelog
