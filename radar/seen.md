@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-06 | Claude Code email-in-User-Agent leak / 2.1.317 | https://github.com/anthropics/claude-code/issues/107757
+2026-11-06 | worktrunk | https://github.com/max-sixty/worktrunk
+2026-11-06 | vercel-labs/agent-desktop | https://github.com/vercel-labs/agent-desktop
+2026-11-06 | Claude Code 2.1.316-2.1.318 | https://github.com/anthropics/claude-code/releases
+2026-11-06 | Codex 0.167.0 agent command center | https://github.com/openai/codex/releases
+2026-11-06 | Rivet | https://github.com/rivet-dev/rivet
+2026-11-06 | Stroq | https://github.com/AGGIB/Stroq
+2026-11-06 | mattpocock/skills | https://github.com/mattpocock/skills
+2026-11-06 | garrytan/gstack | https://github.com/garrytan/gstack
+2026-11-06 | Scrapling | https://github.com/D4Vinci/Scrapling
