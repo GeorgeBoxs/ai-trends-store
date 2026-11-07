@@ -16,3 +16,14 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-07 | Claude Code email leak / privacy hook | https://github.com/anthropics/claude-code/releases
+2026-11-07 | Hightouch Opus escalation cascade | https://hightouch.com/blog/llm-judges-identity-resolution
+2026-11-07 | cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill
+2026-11-07 | Claude Code v2.1.317-319 | https://github.com/anthropics/claude-code/releases
+2026-11-07 | Codex 0.167.0 | https://github.com/openai/codex/releases
+2026-11-07 | Cursor Live Apps + Voice Chat | https://cursor.com/changelog
+2026-11-07 | Project EVE | https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs
+2026-11-07 | google/skills | https://github.com/google/skills
+2026-11-07 | NVIDIA/auto-ontology | https://github.com/NVIDIA/auto-ontology
+2026-11-07 | waymark | https://github.com/piercefreeman/waymark
+2026-11-07 | Zapier agent-read audit / AJX | https://zapier.com/blog/what-we-learned-watching-claude-read-zapier/
