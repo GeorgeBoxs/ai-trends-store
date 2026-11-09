@@ -16,3 +16,13 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-09 | Claude Code v2.1.314-319 | https://github.com/anthropics/claude-code/releases
+2026-11-09 | Apiiro: Don't Ask Again secret leaks | https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+2026-11-09 | vercel-labs/agent-browser | https://github.com/vercel-labs/agent-browser
+2026-11-09 | Codex 0.167.0 | https://github.com/openai/codex/releases
+2026-11-09 | Cursor Build Live Apps / Agent SDK | https://cursor.com/changelog
+2026-11-09 | Agent Skills donated to AAIF | https://www.anthropic.com/news
+2026-11-09 | Goodbye Claude, hello Pi | https://caleb.software/posts/claude-to-pi.html
+2026-11-09 | billion-context | https://github.com/ranxianglei/billion-context
+2026-11-09 | meta/astryx | https://github.com/meta/astryx
+2026-11-09 | Goldman restricts coding agents | https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
