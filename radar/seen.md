@@ -16,3 +16,10 @@
 2026-09-30 | mobile-mcp | https://github.com/mobile-next/mobile-mcp
 2026-09-30 | cloudflare/vinext | https://github.com/cloudflare/vinext
 2026-09-30 | Anthropic S-1 financials (reported) | https://www.investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+2026-11-10 | Claude Fable 5.2 / Mythos 5.2 | https://www.anthropic.com/claude-fable-and-mythos-5-2
+2026-11-10 | Claude Code v2.1.319-2.1.322 | https://github.com/anthropics/claude-code/releases
+2026-11-10 | Strands Decider | https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+2026-11-10 | Codex 0.167.0 agents command center | https://github.com/openai/codex/releases
+2026-11-10 | vercel-labs/agent-browser | https://github.com/vercel-labs/agent-browser
+2026-11-10 | meta/astryx | https://github.com/meta/astryx
+2026-11-10 | anthropics/skills (trending) | https://github.com/anthropics/skills
